@@ -4,6 +4,7 @@ Decision trees implementation on Data of Pokemons
 ## DECISION TREES
 Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression.
 Decision trees learn from data to approximate a sine curve with a set of if-then-else decision rules. The deeper the tree, the more complex the decision rules and the fitter the model.
+![entropy](https://user-images.githubusercontent.com/19835029/27982750-f4b42dc8-63c8-11e7-8c69-e62c7a6e640e.png)
 
 Decision tree builds classification or regression models in the form of a tree structure. It breaks down a dataset into smaller and smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes. A decision node has two or more branches. Leaf node represents a classification or decision. The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data. 
 
