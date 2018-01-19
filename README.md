@@ -1,6 +1,8 @@
 # Pokemon-on-Decision-Trees
 Decision trees implementation on Data of Pokemons
 
+# Caution: This is the explanation of the Concept.Given code contains direct imports from libraries!
+
 ## DECISION TREES
 Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression.
 Decision trees learn from data to approximate a sine curve with a set of if-then-else decision rules. The deeper the tree, the more complex the decision rules and the fitter the model.
